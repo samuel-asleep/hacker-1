@@ -1,0 +1,6 @@
+identifier,asset_type,instruction,eligible_for_bounty,eligible_for_submission,availability_requirement,confidentiality_requirement,integrity_requirement,max_severity,system_tags,created_at,updated_at
+api.wisdomtreeprimeapp.com,URL,"",true,true,medium,high,medium,critical,"English, Azure AD, Cloudflare DDOS, Cloudflare WAF, Microsoft Azure",2022-10-07 13:20:42 UTC,2023-01-24 19:25:19 UTC
+com.wisdomtree.wtprime,TESTFLIGHT,"",true,true,medium,high,medium,critical,,2022-10-07 13:23:00 UTC,2023-01-24 19:25:19 UTC
+com.wisdomtree.wtprime,OTHER_APK,"",true,true,medium,high,medium,critical,,2022-10-07 13:25:51 UTC,2023-01-24 19:25:19 UTC
+wisdomtree.com,URL,Wisdomtree.com and Wisdomtree.eu are out of scope of this project. If you find something that you wish to report please reach out to security@wisdomtree.com.,false,false,,,,critical,,2023-08-30 16:29:50 UTC,2023-08-30 16:29:50 UTC
+wisdomtree.eu,URL,Wisdomtree.com and Wisdomtree.eu are out of scope of this project. If you find something that you wish to report please reach out to security@wisdomtree.com.,false,false,,,,critical,,2023-08-30 16:30:23 UTC,2023-08-30 16:30:23 UTC
