@@ -1,0 +1,85 @@
+identifier,asset_type,instruction,eligible_for_bounty,eligible_for_submission,availability_requirement,confidentiality_requirement,integrity_requirement,max_severity,system_tags,created_at,updated_at
+*.superbet.ro,WILDCARD,"For our main application ```superbet.ro``` You can use a Romanian fake CNP generator in order to create an account, such as - https://isj.educv.ro/cnp/ in order to create an account. Make sure you are using a Romanian VPN as the portal works only for Romanian IP’s.
+
+Or use a test account from this list( some of them might not work so try multiple ones):
+synack1 - rNc7pGnzxaWRaK
+synack2 - tQWdwGX4B5agoe
+synack3 - 2hZHsnFhZPTT3D
+synack4 - 6qE8ZG8JQgSWCU
+synack5 - yfjzvoWLYZn4GM
+synack6 - JUKzSYr626V7zZ
+synack7 - VMs8C4txt3hNzQ
+synack8 - LyEb8vuuRRgiXd
+synack9 - KZkfiVXrHZ3JxX
+synack10 - 6sphJVv3PFp8mB
+
+● Please add the following User-Agent header when you are using any automated tools or scripts - User-agent: hackerone -. Requests that will not contain this cookie header might get blocked by our tools/SOC team.",true,true,,,,critical,,2022-12-02 10:54:35 UTC,2024-01-09 08:17:23 UTC
+*.epic.superbet.ro,WILDCARD,"",false,false,,,,critical,,2022-12-22 16:40:11 UTC,2025-09-23 20:42:05 UTC
+https://legacy-web.superbet.ro/session/login,URL,"All our LOGIN services are out of scope for the moment.
+Any bruteforce attempt on our login services will be considered misbehavior and you will be banned from the program. We won't reward any credentials identified using bruteforce attacks.
+Thank you!",false,false,,,,critical,,2023-01-04 10:22:55 UTC,2023-01-04 10:22:55 UTC
+*.superbet.rs,WILDCARD,"This is our new betting platform, available only in serbia. We only allow connection from Serbian Ip's, so please use a VPN.",true,true,,,,critical,,2023-03-23 12:44:36 UTC,2024-01-08 12:59:39 UTC
+*.superbet.com,WILDCARD,"",true,true,,,,critical,,2023-04-12 08:31:37 UTC,2024-01-08 12:59:39 UTC
+affiliates.superbet.com,URL,,false,false,none,none,none,none,,2023-06-21 08:07:26 UTC,2023-07-13 09:26:44 UTC
+affiliates.superbet.rs,URL,,false,false,none,none,none,none,,2023-06-21 08:08:24 UTC,2023-07-13 09:26:44 UTC
+*.spinaway.com,WILDCARD,"we have a lot of 3rd party's such as cpanels/etc which will are OOS so if you are in doubt, contact security@superbet.com. ",true,true,,,,critical,,2023-08-23 07:44:01 UTC,2023-08-23 07:44:01 UTC
+ro.superbet.sport,GOOGLE_PLAY_APP_ID,"Make sure you set the location to your google play account to Romania so you can access the app
+https://play.google.com/store/apps/details?id=ro.superbet.sport&hl=ro&gl=RO",true,true,,,,critical,,2023-08-23 07:47:20 UTC,2023-08-23 07:47:20 UTC
+ro.superbet.games,GOOGLE_PLAY_APP_ID,"Make sure you change your google play country to Romania so you can access the app.
+https://play.google.com/store/apps/details?id=ro.superbet.games&hl=ro&gl=RO",true,true,,,,critical,,2023-08-23 07:48:20 UTC,2023-08-23 07:48:20 UTC
+*.luckydays.com,WILDCARD,"we have a lot of 3rd party's such as cpanels/etc which will are OOS so if you are in doubt, contact security@superbet.com.",true,true,,,,critical,,2023-08-29 10:22:26 UTC,2023-11-14 13:20:57 UTC
+*.luckydays.ca,WILDCARD,"we have a lot of 3rd party's such as cpanels/etc which will are OOS so if you are in doubt, contact security@superbet.com.",true,true,,,,critical,,2023-08-29 11:32:39 UTC,2023-11-14 13:20:59 UTC
+*.napoleoncasino.be,WILDCARD,"You need a real/fake Belgium ID to register an account on the main casino/sport app.
+You can generate a fake ID here - http://rsolution.be/rijksregister-nummer-generator.RSolution",true,true,not_defined,not_defined,not_defined,critical,,2024-01-09 08:25:23 UTC,2024-01-09 08:36:51 UTC
+*.napoleondice.be,WILDCARD,"You need a real/fake Belgium ID to register an account on the main casino/sport app.
+You can generate a fake ID here - http://rsolution.be/rijksregister-nummer-generator.RSolution",true,true,not_defined,not_defined,not_defined,critical,,2024-01-09 08:26:06 UTC,2024-01-09 08:36:42 UTC
+*.napoleongames.be,WILDCARD,"You need a real/fake Belgium ID to register an account on the main casino/sport app.
+You can generate a fake ID here - http://rsolution.be/rijksregister-nummer-generator.RSolution",true,true,not_defined,not_defined,not_defined,critical,,2024-01-09 08:26:54 UTC,2024-01-09 08:36:35 UTC
+*.napoleonsports.be,WILDCARD,"You need a real/fake Belgium ID to register an account on the main casino/sport app.
+You can generate a fake ID here - http://rsolution.be/rijksregister-nummer-generator.RSolution",true,true,not_defined,not_defined,not_defined,critical,,2024-01-09 08:28:02 UTC,2024-01-09 08:36:22 UTC
+affiliate.napoleongames.be,URL,3rd party,false,false,,,,none,,2024-01-09 09:31:39 UTC,2024-01-09 09:31:39 UTC
+*.superbet.pl,WILDCARD,"",true,true,,,,critical,,2024-01-15 10:15:53 UTC,2024-01-15 10:15:53 UTC
+https://retail.prod.incubator.superbet.ro/ssbt-api/,URL,out of scope,false,false,not_defined,not_defined,not_defined,none,,2024-04-29 08:31:49 UTC,2024-04-29 08:31:49 UTC
+http://surveys.superbet.com,URL,,false,false,not_defined,not_defined,not_defined,none,,2025-02-11 09:59:43 UTC,2025-02-11 09:59:43 UTC
+superbet.bet.br,URL,"Website available only for Brazil. 
+hackeronesuperbet01 - 7Es3tkFrDaUfw#
+ hackeronesuperbet02 - &$6i@Co$iMcn&S
+ hackeronesuperbet03 - Uz5S#Eu32@w4yQ
+ hackeronesuperbet04 - xb9^^aTAw83Ec&
+ hackeronesuperbet05 - m54C9u^%J87oie
+ hackeronesuperbet07 - jFat!DHhn4XcpL
+ hackeronesuperbet08 - sc#N9w7Dx*76^X
+ hackeronesuperbet09 - R6ifcvTZTv%v%Y",true,true,,,,critical,,2025-04-22 14:01:04 UTC,2025-05-26 08:17:43 UTC
+https://napoleoncasino.be/en-be/game/hogamba-crash?demo=false,URL,slot game available on be/ro platforms and on BR in the future.,true,true,,,,critical,,2025-04-29 10:02:44 UTC,2025-04-29 10:03:13 UTC
+https://superbet.ro,URL,"For our main application superbet.ro You can use a Romanian fake CNP generator in order to create an account, such as - https://isj.educv.ro/cnp/ in order to create an account. Make sure you are using a Romanian VPN as the portal works only for Romanian IP’s.
+
+Or use a test account from this list( some of them might not work so try multiple ones):
+ hackeronesuperbet02 - jV%J5ypt9mJVe$
+ hackeronesuperbet03 - CSK2ZhG3LetSD8O
+ hackeronesuperbet04 - qKSi52$YkdXv58
+ hackeronesuperbet05 - ZgZc9jbgZ82Bh&
+ hackeronesuperbet06 - !u#^ogsrh9vt9N
+
+● Please add the following User-Agent header when you are using any automated tools or scripts - User-agent: hackerone -. Requests that will not contain this cookie header might get blocked by our tools/SOC team.",true,true,,,,critical,,2025-05-26 08:18:18 UTC,2025-05-26 08:21:38 UTC
+https://superbet.pl,URL,Website available only from Poland,true,true,high,high,high,critical,,2025-05-26 08:22:24 UTC,2025-05-26 08:22:24 UTC
+https://napoleoncasino.be,URL,"Website available only from Belgium
+You need a real/fake Belgium ID to register an account on the main casino/sport app. You can generate a fake ID here - http://rsolution.be/rijksregister-nummer-generator.RSolution",true,true,high,high,high,critical,,2025-05-26 08:23:17 UTC,2025-05-26 08:23:51 UTC
+https://napoleonsports.be,URL,Website available only from Belgium. You need a real/fake Belgium ID to register an account on the main casino/sport app. You can generate a fake ID here - http://rsolution.be/rijksregister-nummer-generator.RSolution,true,true,high,high,high,critical,,2025-05-26 08:30:25 UTC,2025-05-26 08:30:25 UTC
+https://napoleondice.be,URL,"Website available only from Belgium.
+You need a real/fake Belgium ID to register an account on the main casino/sport app. You can generate a fake ID here - http://rsolution.be/rijksregister-nummer-generator.RSolution",true,true,high,high,high,critical,,2025-05-26 08:31:20 UTC,2025-05-26 08:31:20 UTC
+https://napoleongames.be,URL,"Website available only from Belgium
+You need a real/fake Belgium ID to register an account on the main casino/sport app. You can generate a fake ID here - http://rsolution.be/rijksregister-nummer-generator.RSolution",true,true,high,high,high,critical,,2025-05-26 08:32:06 UTC,2025-05-26 08:32:06 UTC
+https://superbet.rs,URL,"Website available only from Serbia.
+",true,true,high,high,high,critical,,2025-05-26 08:32:46 UTC,2025-05-26 08:32:46 UTC
+WGP Slot Games,OTHER,"All games from WGP provider are in scope for testing. 
+You can find them by filtering for WGP provider on Napoleon platform. Make sure you use VPN for BE.
+https://napoleoncasino.be/en-be/games/search?query=wgp",true,true,high,high,high,critical,,2025-07-29 08:10:11 UTC,2025-07-29 08:10:11 UTC
+lp.superbet.pl,URL,"",false,false,none,none,none,none,,2025-08-22 16:02:41 UTC,2025-08-22 16:02:41 UTC
+lp.superbet.ro,URL,"",false,false,none,none,none,none,,2025-08-22 16:03:15 UTC,2025-08-22 16:03:15 UTC
+lp.superbet.com,URL,"",false,false,none,none,none,none,,2025-08-22 16:03:35 UTC,2025-08-22 16:03:35 UTC
+lp.superbet.rs,URL,"",false,false,none,none,none,none,,2025-08-22 16:03:54 UTC,2025-08-22 16:03:54 UTC
+lp.superbet.bet.br,URL,"",false,false,none,none,none,none,,2025-08-22 16:04:14 UTC,2025-08-22 16:04:14 UTC
+test.epic.superbet.ro,URL,"",false,false,not_defined,not_defined,not_defined,none,,2025-09-15 09:20:21 UTC,2025-09-15 09:20:21 UTC
+test-gw.epic.superbet.ro,URL,,false,false,not_defined,not_defined,not_defined,none,,2025-09-16 15:38:45 UTC,2025-09-16 15:38:45 UTC
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false,OTHER,"",true,true,,,,critical,,2025-09-23 17:29:25 UTC,2025-09-23 17:29:25 UTC
+*.happening.dev,WILDCARD,"",true,true,high,high,high,critical,,2025-11-12 11:10:31 UTC,2025-11-12 11:10:31 UTC
